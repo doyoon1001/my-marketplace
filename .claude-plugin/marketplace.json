@@ -1,0 +1,18 @@
+{
+    "name": "doyoon1001-marketplace",
+    "owner": {
+        "name": "doyoon1001",
+        "email": "yeoneochobab27@gmail.com"
+    },
+    "plugins": [
+        {
+            "name": "ppt-maker",
+            "source": "./plugins/ppt-maker-plugin",
+            "description": "PPT 생성 플러그인",
+            "version": "1.0.0",
+            "author": {
+                "name": "doyoon1001"
+            }
+        }
+    ]
+}
